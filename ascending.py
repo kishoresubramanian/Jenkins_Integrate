@@ -1,4 +1,4 @@
-a="678345"
+a="6783451"
 x,y=0,9
 str=''
 while y>=x:
@@ -7,4 +7,5 @@ while y>=x:
             str=str+i
     y=y-1
 print(str)
+
 
