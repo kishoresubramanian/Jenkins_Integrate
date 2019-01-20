@@ -7,5 +7,3 @@ while y>=x:
             str=str+i
     y=y-1
 print(str)
-
-
