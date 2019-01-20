@@ -1,2 +1,3 @@
 # Jenkins_Integrate
-Hi
+Hi . --> . first Commit
+How are you . ---> .  Second Commit
